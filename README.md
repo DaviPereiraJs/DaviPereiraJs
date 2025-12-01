@@ -23,7 +23,6 @@
 
 ## 🗂️ Projetos em Destaque
 
-- [**FIT GYM**](https://fitgym-ukek.vercel.app/) — Landing page criada para academias visando falicilitar a assinatura das mensalidades tanto mensais, anuais e diarios.
 - [**Atletas em Foco**](https://github.com/DaviPereiraJs/Projeto-Final.git) — Sistema criado para o controle de mensalidades para academias, arenas society e outros.
 
 
