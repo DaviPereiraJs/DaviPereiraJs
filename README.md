@@ -23,7 +23,8 @@
 
 ## 🗂️ Projetos em Destaque
 
-- [**Atletas em Foco**](https://github.com/DaviPereiraJs/Projeto-Final.git) — Sistema criado para o controle de mensalidades para academias, arenas society e outros.
+- [**Meu Portifólio**](https://my-new-portfolio-psi-flax.vercel.app/) — Aqui está segunda versão do meu portifólio mostrando o meu nível técnico atual e a maturidade que eu entrego nos meus projetos.
+- [**My Finace V2**](https://my-new-portfolio-psi-flax.vercel.app/) — Sistema de controle financeiro pessoal no qual eu tenho total controle dos meus gastos.
 
 
 
