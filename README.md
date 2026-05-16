@@ -24,8 +24,6 @@
 - [**Plataforma CIDTS**](https://www.plataformacidts.com/) — Meu primeiro projeto como bolsista remunerado pelo IFCE Campus Boa Viagem - CE, Brazil. A plataforma é o local onde se lozaliza todos os projetos, produtos, eventos, laboratórios e dentre varios outros. Resumidamente, essa plataforma é o coração da instituição. Minha atuação nesse projeto foi como FullStack/DevOps, no qual aprofundei meus conhecimentos no quesito infraestrutura e no desenvolvimento FullStack.
 
 
-- https://www.plataformacidts.com/
-
 
 
 ## Main Skills:
@@ -46,7 +44,7 @@
 ### Backend:
 <div style="display: inline_block"><br/>
 <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
