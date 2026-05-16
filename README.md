@@ -4,10 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Davi+Nascimento;I'm+20+years+old;I+am+from+Boa+Viagem,+CE;I+study+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviPereiraJs&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviPereiraJs&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
-</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviPereiraJs&bg_color=000000&color=00FF00&line=3CB371&point=006400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -25,6 +21,10 @@
 
 - [**Meu Portifólio**](https://my-new-portfolio-psi-flax.vercel.app/) — Aqui está segunda versão do meu portifólio mostrando o meu nível técnico atual e a maturidade que eu entrego nos meus projetos.
 - [**My Finace V2**](https://my-new-portfolio-psi-flax.vercel.app/) — Sistema de controle financeiro pessoal no qual eu tenho total controle dos meus gastos.
+- [**Plataforma CIDTS**](https://www.plataformacidts.com/) — Meu primeiro projeto como bolsista remunerado pelo IFCE Campus Boa Viagem - CE, Brazil. A plataforma é o local onde se lozaliza todos os projetos, produtos, eventos, laboratórios e dentre varios outros. Resumidamente, essa plataforma é o coração da instituição. Minha atuação nesse projeto foi como FullStack/DevOps, no qual aprofundei meus conhecimentos no quesito infraestrutura e no desenvolvimento FullStack.
+
+
+- https://www.plataformacidts.com/
 
 
 
