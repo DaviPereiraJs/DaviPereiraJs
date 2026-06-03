@@ -17,7 +17,7 @@
 
 
 
-## 🗂️ Projetos em Destaque
+## 🗂️ Projetos em Destaques
 
 - [**Meu Portifólio**](https://my-new-portfolio-psi-flax.vercel.app/) — Aqui está segunda versão do meu portifólio mostrando o meu nível técnico atual e a maturidade que eu entrego nos meus projetos.
 - [**My Finace V2**](https://my-new-portfolio-psi-flax.vercel.app/) — Sistema de controle financeiro pessoal no qual eu tenho total controle dos meus gastos.
