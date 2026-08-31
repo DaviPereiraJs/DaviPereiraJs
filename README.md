@@ -1,59 +1,62 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Davi+Nascimento;I'm+20+years+old;I+am+from+Boa+Viagem,+CE;I+study+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviPereiraJs&bg_color=000000&color=00FF00&line=3CB371&point=006400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaviPereiraJs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dn2128494@gmail.com)
-
-
-
-## 🗂️ Projetos em Destaques
-
-- [**Meu Portifólio**](https://my-new-portfolio-psi-flax.vercel.app/) — Aqui está segunda versão do meu portifólio mostrando o meu nível técnico atual e a maturidade que eu entrego nos meus projetos.
-- [**My Finace V2**](https://my-new-portfolio-psi-flax.vercel.app/) — Sistema de controle financeiro pessoal no qual eu tenho total controle dos meus gastos.
-- [**Plataforma CIDTS**](https://www.plataformacidts.com/) — Meu primeiro projeto como bolsista remunerado pelo IFCE Campus Boa Viagem - CE, Brazil. A plataforma é o local onde se lozaliza todos os projetos, produtos, eventos, laboratórios e dentre varios outros. Resumidamente, essa plataforma é o coração da instituição. Minha atuação nesse projeto foi como FullStack/DevOps, no qual aprofundei meus conhecimentos no quesito infraestrutura e no desenvolvimento FullStack.
-
-
-
-
-## Main Skills:
-
-### Frontend:
-<div style="display: inline_block"><br/>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<div align="center">
+  <h1>Olá, eu sou Davi Nascimento 🚀</h1>
+  <h3>Desenvolvedor Frontend Júnior | React • TypeScript • Django</h3>
+  
+  <p align="center">
+    <a href="mailto:dn2128494@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://linkedin.com/in/davi-nascimento-82ab18389"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://my-new-portfolio-psi-flax.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  </p>
 </div>
 
+---
 
+### 👨‍💻 Perfil Profissional
 
-### Backend:
-<div style="display: inline_block"><br/>
-<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</div><br>
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e atuo no desenvolvimento de soluções web de ponta a ponta. Prezo pela entrega de aplicações escaláveis e interfaces modernas, sempre buscando um design premium e limpo. No lado do código, mantenho um padrão de qualidade elevado, aplicando TypeScript rigoroso e testes automatizados.
 
-## Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+Atualmente:
+- 🏢 Genesis Hitech: Desenvolvendo sistemas Full Stack para gestão hídrica, crediário, agronegócio e landing pages.
+- 🎓 IFCE (Campus Boa Viagem): Liderando a reconstrução e modernização da Plataforma CIDTS como Bolsista de Inovação Tecnológica.
+- 💻 Freelancer:Criando soluções sob medida (painéis administrativos e sistemas financeiros) para pequenos e médios empreendedores.
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
+### 🛠️ Tecnologias e Arquitetura
+
+Trabalho com uma arquitetura baseada em componentes, APIs RESTful e infraestrutura conteinerizada.
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Python, Django REST Framework, Node.js, |
+| **Banco de Dados** | PostgreSQL, MySQL |
+| **DevOps & QA** | Docker, Cypress (E2E), k6, SonarQube, Git&GitHub |
+| **Ferramentas** | Insomia, Figma, Jira, Notion |
+
+---
+
+### 🚀 Projetos em Destaque
+
+> **Bolsista de Inovação Tecnológica (IFCE)**
+
+> **Plataforma CIDTS**
+> Reconstrução completa do coração institucional do IFCE. Atuação em levantamento de requisitos, desenvolvimento Full Stack (React, Django REST) e deploy via Docker |
+> **Plataforma LISA**
+> Desenvolvimento da primeira plataforma web do laboratório LISA.
+
+> **Ecossistema Genesis Hitech**
+
+> Desenvolvimento do **CREDI FLOW** (gestão de parcelamentos) |
+> **CETHAP** (gestão hídrica e monitoramento de reservatórios) |
+> **EGG FLOW** (gestão de produção avícola) |
+> **PREV FÁCIL** (landing page de simulação de empréstimos para conta de energia) |
+> **COLEIRA INTELIGENTE** (landing page descritiva sobre o projeto).
+
+> **Freelancer**
+
+> **Sistemas de Gestão & Financeiro**
+> Desenvolvimento do **My Finance V2** para controle financeiro pessoal avançado, além de dashboards personalizados e sistemas de faturamento para negócios locais |
+> Desenvolvimento do **Lava Jato SB e Lava Jato JR Automotivo** para controle financeiro e controle de fiados |
+> Desenvolvimento do **Barbearia HB** para controle financeiro pessoal, com dashboards personalizadas para todos os cortes, ticket médio e ranking de clientes |
+> Desenvolvimento do **Big Lanches** sistema de pedidos e cardapio online para lanchonete.
