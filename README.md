@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou Davi Nascimento 🚀</h1>
-  <h3>Desenvolvedor Frontend Júnior | React • TypeScript • Django</h3>
+  <h3>Analista Júnior na Enel Brasil | Desenvolvedor Full Stack • React • TypeScript • Python</h3>
   
   <p align="center">
     <a href="mailto:dn2128494@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -13,12 +13,13 @@
 
 ### 👨‍💻 Perfil Profissional
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e atuo no desenvolvimento de soluções web de ponta a ponta. Prezo pela entrega de aplicações escaláveis e interfaces modernas, sempre buscando um design premium e limpo. No lado do código, mantenho um padrão de qualidade elevado, aplicando TypeScript rigoroso e testes automatizados.
+Sou formando em Análise e Desenvolvimento de Sistemas (ADS) e atuo no desenvolvimento de soluções web e análise de sistemas de ponta a ponta. Prezo pela entrega de aplicações escaláveis, fluxos eficientes e interfaces modernas com foco em boa experiência de usuário. No código, mantenho alto padrão de qualidade com TypeScript rigoroso, arquitetura modular e testes automatizados.
 
-Atualmente:
-- 🏢 Genesis Hitech: Desenvolvendo sistemas Full Stack para gestão hídrica, crediário, agronegócio e landing pages.
-- 🎓 IFCE (Campus Boa Viagem): Liderando a reconstrução e modernização da Plataforma CIDTS como Bolsista de Inovação Tecnológica.
-- 💻 Freelancer:Criando soluções sob medida (painéis administrativos e sistemas financeiros) para pequenos e médios empreendedores.
+Experiências:
+- ⚡ **Enel**: Atuando como Analista de Sistemas Júnior.
+- 🏢 **Genesis Hitech**: Desenvolvedor Full Stack - Desenvolvendo sistemas Full Stack para gestão hídrica, crediário, agronegócio e landing pages.
+- 🎓 **IFCE (Campus Boa Viagem)**:Bolsista de Inovação Tecnológica - onde atuei na reconstrução e modernização da Plataforma CIDTS como.
+- 💻 **Freelancer**: Criando soluções sob medida (sistemas de gestão, PDV e painéis financeiros) para pequenos e médios negócios.
 
 ---
 
@@ -30,7 +31,8 @@ Trabalho com uma arquitetura baseada em componentes, APIs RESTful e infraestrutu
 | :--- | :--- |
 | **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3 |
 | **Backend** | Python, Django REST Framework, Node.js, |
-| **Banco de Dados** | PostgreSQL, MySQL |
+| **Banco de Dados** | PostgreSQL, MySQL, Prisma ORM|
+| **BI** | Power BI, Power Query, Excel|
 | **DevOps & QA** | Docker, Cypress (E2E), k6, SonarQube, Git&GitHub |
 | **Ferramentas** | Insomia, Figma, Jira, Notion |
 
